@@ -11,5 +11,6 @@ Google fonts for font family 'Quicksand' and 'Abel'
 
 Resources
 ---------
+Edwisor.com : https://edwisor.com/
 CSS Reference : https://cssreference.io/  
 CSS Tricks: https://css-tricks.com/  
